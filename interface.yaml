@@ -1,0 +1,4 @@
+name: kibana
+summary: Interface for kibana to relate to elasticsearh with.
+version: 1
+repo: https://github.com/omnivector-solutions/interface-kibana
